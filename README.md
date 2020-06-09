@@ -1,0 +1,2 @@
+# AAEON-HERO-SDK-Basic
+AAEON HERO SDK Basic Edition
