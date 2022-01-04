@@ -18,4 +18,4 @@ If you are interestedon AAEON HERO SDK, please get more information from your AA
 <br>
 Currently support on: <br>
 Linux OS: Ubuntu 16.04.x <br>
-AAEON devices: PICO-WHU4, ACCEL-VM500 <br>
+AAEON devices: PICO-WHU4, ACCEL-VM500, BOXER-6842M <br>
